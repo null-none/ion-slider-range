@@ -1,0 +1,28 @@
+{
+  "name": "ion-slider-range",
+  "version": "1.0.0",
+  "authors": [
+    "Dmitry Kalinin <dmitry.kalinin.email@gmail.com>"
+  ],
+  "description": "Ionic element for slider range",
+  "main": "ioniSliderRange.js",
+  "keywords": [
+    "ionic",
+    "slider range",
+    "ion",
+    "slider",
+    "range",
+    "ion-slider-range",
+    "cordova"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/null-none/ion-slider-range",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
