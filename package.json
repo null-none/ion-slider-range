@@ -1,0 +1,19 @@
+{
+  "name": "ion-slider-range",
+  "version": "1.1.1",
+  "description": "Ionic element for slider range",
+  "main": "ionicSliderRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/ion-slider-range.git"
+  },
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/ion-slider-range/issues"
+  },
+  "homepage": "https://github.com/null-none/ion-slider-range#readme"
+}
